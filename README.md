@@ -3,11 +3,14 @@ Web based application that filters tweets by location using React.Js and Node.Js
 
 Getting started
 git clone https://github.com/MANINDERJITSAMRA/TwitterSearch
+
 cd tweetsearch
+
 npm install
 
 
 To Run
+
 npm run dev
 
 url:  http://localhost:3000
